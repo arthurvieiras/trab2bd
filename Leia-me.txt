@@ -1,7 +1,5 @@
 ==========================================
 Segundo trabalho de Banco de Dados 2015.2
-Professor Alexandre Plastino
-Monitor Bernardo Lopes
 TCC00166 — Banco de Dados
 IC — Instituto de Computação
 UFF — Universidade Federal Fluminense
