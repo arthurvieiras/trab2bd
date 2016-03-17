@@ -1,0 +1,7 @@
+5,6
+IDPECA,I,nn,ord,chv
+NOME,C,nn
+COR,C,nn
+PESO,I,nn
+CIDADE,C
+PECAFORNECEDOR

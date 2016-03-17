@@ -1,0 +1,2 @@
+S6(FORNECEDOR,Status,20,T5P1)
+P2(T5P1,2,Nome,Status,T5R,Status)

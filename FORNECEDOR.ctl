@@ -1,0 +1,6 @@
+4,5
+IDFORN,I,nn,ord,chv
+NOME,C,nn
+STATUS,I,nn
+CIDADE,C,nn
+PECAFORNECEDOR
