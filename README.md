@@ -47,7 +47,7 @@ T3 = Retorna o nome dos fornecedores que fornecem peças com peso igual ou menor
 			WHERE Peso <= 15))
 	ORDER BY Nome;
 ```
-Resposta esperada: Clark,Jones,Smith
+Resposta esperada: Blake,Clark,Jones,Smith
 
 T4 = Retorna o código da peça, código do fornecedor e nome da cidade das peças e fornecedores com cidade em comum, em ordem alfabética da cidade e depois em ordem crescente do código do fornecedor
 ```SQL
